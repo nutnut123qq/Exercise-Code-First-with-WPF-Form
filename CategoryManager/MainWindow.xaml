@@ -1,0 +1,56 @@
+﻿<Window x:Class="CategoryManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CategoryManager"
+        mc:Ignorable="d"
+        Title="Category Manager" Height="450" Width="800"
+        Background="#F0F0F0">
+    <Window.Resources>
+        <!-- Define a common style for buttons -->
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5,10"/>
+            <Setter Property="Background" Value="#3b82f6"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#1e40af"/>
+            <Setter Property="BorderThickness" Value="2"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Labels and TextBoxes for Category Information -->
+        <Label Content="Category ID:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox Name="txtCategoryID" Grid.Row="0" Grid.Column="1" Width="200" IsReadOnly="True" VerticalAlignment="Center"/>
+
+        <Label Content="Category Name:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox Name="txtCategoryName" Grid.Row="1" Grid.Column="1" Width="200" VerticalAlignment="Center"/>
+
+        <!-- DataGrid for Categories -->
+        <DataGrid Name="dgvCategories" Grid.Row="2" Grid.ColumnSpan="3" AutoGenerateColumns="True" IsReadOnly="True"
+                  Margin="0,20,0,0" SelectionMode="Extended" SelectionUnit="FullRow"
+                  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                  SelectionChanged="dgvCategories_SelectionChanged"/>
+
+        <!-- Buttons for Insert, Update, Delete -->
+        <StackPanel Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,20,0,0">
+            <Button Name="btnInsert" Content="Insert" Width="100" Click="btnInsert_Click"/>
+            <Button Name="btnUpdate" Content="Update" Width="100" Click="btnUpdate_Click"/>
+            <Button Name="btnDelete" Content="Delete" Width="100" Click="btnDelete_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

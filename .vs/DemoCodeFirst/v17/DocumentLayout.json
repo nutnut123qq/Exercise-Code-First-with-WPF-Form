@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hahuy\\Desktop\\Hoang1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\migrations\\20241026090215_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\migrations\\20241026090215_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\models\\mystockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\models\\mystockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|c:\\users\\hahuy\\desktop\\hoang1\\categorymanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC312BD-913D-44D8-A84F-5F5871E5CBA7}|CategoryManager\\CategoryManager.csproj|solutionrelative:categorymanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStockDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Models\\MyStockDbContext.cs",
+              "RelativeDocumentMoniker": "CategoryManager\\Models\\MyStockDbContext.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Models\\MyStockDbContext.cs",
+              "RelativeToolTip": "CategoryManager\\Models\\MyStockDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:08:56.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CategoryManager\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Models\\Category.cs",
+              "RelativeToolTip": "CategoryManager\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:08:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CategoryManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\App.xaml.cs",
+              "RelativeToolTip": "CategoryManager\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:08:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\appsettings.json",
+              "RelativeDocumentMoniker": "CategoryManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\appsettings.json",
+              "RelativeToolTip": "CategoryManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T10:06:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CategoryManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\MainWindow.xaml",
+              "RelativeToolTip": "CategoryManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T09:03:11.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241026090215_init.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Migrations\\20241026090215_init.cs",
+              "RelativeDocumentMoniker": "CategoryManager\\Migrations\\20241026090215_init.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Hoang1\\CategoryManager\\Migrations\\20241026090215_init.cs",
+              "RelativeToolTip": "CategoryManager\\Migrations\\20241026090215_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:15.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
